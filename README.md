@@ -4,7 +4,7 @@ The Housing prices competition is with over 45.000 participating teams and indiv
 
 
 
-  - Code from my very first Kaggle competition 
+  - Python code from my very first Kaggle competition 
   - Testing different imputation methods
   - Extensive feature engineering and EDA
   - Top 9% score using Ridge Regression
