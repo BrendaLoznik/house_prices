@@ -10,4 +10,6 @@ The Housing prices competition is with over 45.000 participating teams and indiv
   - Tested the difference of using log-transformed and untrafsormed sale price on RMSE
   - Optimized Ridge regression using GridSearch CV to obtain a model with a top 9% score on the public Kaggle leaderboard
   
+  ![Screenshot](new_house.png)
+  
 Click [here](https://www.kaggle.com/c/home-data-for-ml-course) to go to the Kaggle  competition page.
